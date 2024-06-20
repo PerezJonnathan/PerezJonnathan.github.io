@@ -8,6 +8,6 @@ Algunos de los conocimientos que he adquirido y que uso con frecuencia en mi esp
 - Power BI 
 - Excel
 
-Dentro de mis objetivos está en incursionar mas profundamente en el tema de la analítica de datos.
+Dentro de mis objetivos está en incursionar mas profundamente en el tema de la Analítica de Datos, Inteligencia de negocios con Python, IA aplicado a modelos económicos predictivos o derivados. 
 
 
